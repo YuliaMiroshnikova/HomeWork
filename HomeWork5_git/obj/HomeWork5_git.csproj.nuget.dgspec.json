@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yu/Desktop/C#/New Cource/5/HomeWork5_git/HomeWork5_GIT/HomeWork5_git/HomeWork5_git.csproj": {}
+  },
+  "projects": {
+    "/Users/yu/Desktop/C#/New Cource/5/HomeWork5_git/HomeWork5_GIT/HomeWork5_git/HomeWork5_git.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yu/Desktop/C#/New Cource/5/HomeWork5_git/HomeWork5_GIT/HomeWork5_git/HomeWork5_git.csproj",
+        "projectName": "HomeWork5_git",
+        "projectPath": "/Users/yu/Desktop/C#/New Cource/5/HomeWork5_git/HomeWork5_GIT/HomeWork5_git/HomeWork5_git.csproj",
+        "packagesPath": "/Users/yu/.nuget/packages/",
+        "outputPath": "/Users/yu/Desktop/C#/New Cource/5/HomeWork5_git/HomeWork5_GIT/HomeWork5_git/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
